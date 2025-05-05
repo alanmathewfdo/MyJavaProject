@@ -1,1 +1,1 @@
-# MyJavaProject
+# Calculator
